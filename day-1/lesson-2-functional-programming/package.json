@@ -1,0 +1,19 @@
+{
+  "name": "lesson-2-functional-programming",
+  "version": "1.0.0",
+  "description": "## First Step Run the following command in this directory ``` npm install ``` This will install all the dependencies necessary for this exercise to run.",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^5.0.7"
+  }
+}
