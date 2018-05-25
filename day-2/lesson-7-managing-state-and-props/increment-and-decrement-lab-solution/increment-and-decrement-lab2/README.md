@@ -6,10 +6,6 @@ score of 0 is being displayed, along with the increment and decrement buttons, b
 don't work and the tests don't pass. Add functionality to the buttons such that the app works
 and the tests pass
 
-In this lab you will rewrite the last lab but this time by using a one event hanlder that is shared
-by both buttons, and by adding name attributes to the buttons. Be sure set the name attribute of
-the first button to increment, and the second to decrement
-
 like usual run this command to setup:
 ```
 npm install
